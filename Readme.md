@@ -6,6 +6,8 @@
 
 A server built with Express, TypeScript and Firebase utilizing Heroku for hosting and NoSQL database functionality. The server provides various API endpoints for managing products and orders.
 
+-   client: [https://github.com/PureDevPer/reebelo-client](https://github.com/PureDevPer/reebelo-client)
+
 ## API Endpoints
 
 Please note that the API URL is https://reebelo-server-ae92340129c9.herokuapp.com, and the API endpoints can be accessed by appending the respective paths mentioned below.
