@@ -10,7 +10,7 @@ A server built with Express, TypeScript and Firebase utilizing Heroku for hostin
 
 ## API Endpoints
 
-Please note that the API URL is https://reebelo-server-ae92340129c9.herokuapp.com, and the API endpoints can be accessed by appending the respective paths mentioned below.
+Please note that ~~the API URL is https://reebelo-server-ae92340129c9.herokuapp.com~~ (Deleted due to limited buget), and the API endpoints can be accessed by appending the respective paths mentioned below.
 
 ### Product
 
